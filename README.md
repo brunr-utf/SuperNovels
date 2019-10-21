@@ -39,6 +39,7 @@ Trabalho para gerenciamento de um Leitor, feito por Renan Celi brun e Matheus Lo
 #### Area Autenticada
 
 - TopBar (Autenticado)
+- Páginas relacionadas aos processos mencionados nos "Primeiros Passos"
 
 ### Tecnologias
 - Angular 8
@@ -75,4 +76,3 @@ Trabalho para gerenciamento de um Leitor, feito por Renan Celi brun e Matheus Lo
 #### Seguranca
 
 - Oferece recurso para fazer login.
-
